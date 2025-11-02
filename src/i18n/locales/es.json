@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "products": "Productos",
+    "about": "Nosotros",
+    "catalog": "Catálogo"
+  },
+  "hero": {
+    "slide1": {
+      "title": "El Lujo de Reinventar Tu Luz",
+      "subtitle": "Cera perlada que se adapta a tu estilo",
+      "cta": "Descubre Nuestras Velas"
+    },
+    "slide2": {
+      "title": "Fragancias que Transforman Espacios",
+      "subtitle": "Aromas premium cuidadosamente seleccionados",
+      "cta": "Ver Catálogo"
+    },
+    "slide3": {
+      "title": "Arte Artesanal Celestial",
+      "subtitle": "Cada vela es una obra única",
+      "cta": "Explorar Colección"
+    }
+  },
+  "features": {
+    "pearlWax": {
+      "title": "Cera Perlada",
+      "description": "Innovadora tecnología que te permite diseñar y rediseñar tu vela infinitas veces"
+    },
+    "fragrances": {
+      "title": "Fragancias Premium",
+      "description": "Aromas cuidadosamente seleccionados que elevan tu estado de ánimo y crean ambientes únicos"
+    },
+    "handmade": {
+      "title": "Hecho con Amor",
+      "description": "Cada vela es una obra de arte artesanal que conecta con la grandeza del cosmos"
+    }
+  },
+  "about": {
+    "title": "Nosotros",
+    "mission": {
+      "title": "Misión",
+      "content": "Convertir las velas en una experiencia de autoexpresión e iluminación emocional, ofreciendo productos que no solo iluminan espacios, sino que también inspiran conexión con el cosmos y fomentan la creatividad a través de su versatilidad estética."
+    },
+    "vision": {
+      "title": "Visión",
+      "content": "Ser la marca líder en el mercado de velas artesanales de cera perlada, reconocida por fusionar arte, funcionalidad y espiritualidad, creando productos que transforman el hogar en un santuario de paz y armonía cósmica."
+    },
+    "value": {
+      "title": "Propuesta de Valor",
+      "content": "Cera perlada reutilizable con diseños únicos que se integran con una variedad de fragancias premium. Nuestra estética celestial y espiritual inspira serenidad y conexión emocional, mientras ofrece funcionalidad innovadora y versatilidad de uso."
+    }
+  },
+  "catalog": {
+    "title": "Nuestro Catálogo",
+    "subtitle": "Descubre nuestra colección de productos artesanales",
+    "categories": {
+      "wax": "Paquetes de Cera",
+      "fragrances": "Fragancias",
+      "kits": "Kits Completos"
+    },
+    "addToCart": "Agregar al Carrito",
+    "viewDetails": "Ver Detalles"
+  },
+  "products": {
+    "wax": {
+      "cosmic": {
+        "name": "Cera Perlada Cósmica",
+        "description": "Cera perlada de alta calidad con efecto iridiscente que refleja la luz como las estrellas"
+      },
+      "earth": {
+        "name": "Cera Perlada Terrestre",
+        "description": "Tonos tierra que aportan calidez y conexión con la naturaleza"
+      },
+      "celestial": {
+        "name": "Cera Perlada Celestial",
+        "description": "Mezcla perfecta de tonos cósmicos y terrestres para un balance único"
+      }
+    },
+    "fragrances": {
+      "lavender": {
+        "name": "Lavanda Serena",
+        "description": "Aroma relajante de lavanda pura para crear ambientes de paz"
+      },
+      "sandalwood": {
+        "name": "Sándalo Místico",
+        "description": "Fragancia de sándalo que eleva la meditación y conexión espiritual"
+      },
+      "vanilla": {
+        "name": "Vainilla Cósmica",
+        "description": "Dulce aroma de vainilla premium que reconforta el alma"
+      },
+      "citrus": {
+        "name": "Cítricos Radiantes",
+        "description": "Energizante mezcla de cítricos para revitalizar tu espacio"
+      }
+    },
+    "kits": {
+      "starter": {
+        "name": "Kit Iniciación",
+        "description": "Incluye 1 cera perlada y 2 fragancias para comenzar tu viaje celestial"
+      },
+      "premium": {
+        "name": "Kit Premium",
+        "description": "Incluye 2 ceras perladas y 4 fragancias exclusivas"
+      },
+      "complete": {
+        "name": "Kit Completo",
+        "description": "Colección completa con 3 ceras y 6 fragancias para explorar infinitas combinaciones"
+      }
+    }
+  },
+  "cta": {
+    "title": "Transforma Tu Hogar en un Santuario",
+    "description": "Descubre la colección Celestia y lleva la serenidad y magia del universo a cada rincón",
+    "button": "Ver Velas Exclusivas"
+  },
+  "footer": {
+    "slogan": "Cera perlada. El lujo de reinventar tu luz.",
+    "terms": "Términos",
+    "privacy": "Privacidad",
+    "contact": "Contacto"
+  }
+}

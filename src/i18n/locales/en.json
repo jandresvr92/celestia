@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "products": "Products",
+    "about": "About Us",
+    "catalog": "Catalog"
+  },
+  "hero": {
+    "slide1": {
+      "title": "The Luxury of Reinventing Your Light",
+      "subtitle": "Pearl wax that adapts to your style",
+      "cta": "Discover Our Candles"
+    },
+    "slide2": {
+      "title": "Fragrances That Transform Spaces",
+      "subtitle": "Premium aromas carefully selected",
+      "cta": "View Catalog"
+    },
+    "slide3": {
+      "title": "Celestial Artisan Art",
+      "subtitle": "Each candle is a unique work of art",
+      "cta": "Explore Collection"
+    }
+  },
+  "features": {
+    "pearlWax": {
+      "title": "Pearl Wax",
+      "description": "Innovative technology that allows you to design and redesign your candle infinitely"
+    },
+    "fragrances": {
+      "title": "Premium Fragrances",
+      "description": "Carefully selected aromas that elevate your mood and create unique environments"
+    },
+    "handmade": {
+      "title": "Made with Love",
+      "description": "Each candle is a handcrafted work of art that connects with the grandeur of the cosmos"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "mission": {
+      "title": "Mission",
+      "content": "To turn candles into an experience of self-expression and emotional illumination, offering products that not only light up spaces, but also inspire connection with the cosmos and foster creativity through their aesthetic versatility."
+    },
+    "vision": {
+      "title": "Vision",
+      "content": "To be the leading brand in the pearl wax artisan candle market, recognized for merging art, functionality and spirituality, creating products that transform the home into a sanctuary of peace and cosmic harmony."
+    },
+    "value": {
+      "title": "Value Proposition",
+      "content": "Reusable pearl wax with unique designs that integrate with a variety of premium fragrances. Our celestial and spiritual aesthetic inspires serenity and emotional connection, while offering innovative functionality and versatility of use."
+    }
+  },
+  "catalog": {
+    "title": "Our Catalog",
+    "subtitle": "Discover our collection of handcrafted products",
+    "categories": {
+      "wax": "Wax Packages",
+      "fragrances": "Fragrances",
+      "kits": "Complete Kits"
+    },
+    "addToCart": "Add to Cart",
+    "viewDetails": "View Details"
+  },
+  "products": {
+    "wax": {
+      "cosmic": {
+        "name": "Cosmic Pearl Wax",
+        "description": "High-quality pearl wax with an iridescent effect that reflects light like the stars"
+      },
+      "earth": {
+        "name": "Earth Pearl Wax",
+        "description": "Earth tones that bring warmth and connection with nature"
+      },
+      "celestial": {
+        "name": "Celestial Pearl Wax",
+        "description": "Perfect blend of cosmic and earth tones for a unique balance"
+      }
+    },
+    "fragrances": {
+      "lavender": {
+        "name": "Serene Lavender",
+        "description": "Relaxing pure lavender aroma to create peaceful environments"
+      },
+      "sandalwood": {
+        "name": "Mystic Sandalwood",
+        "description": "Sandalwood fragrance that elevates meditation and spiritual connection"
+      },
+      "vanilla": {
+        "name": "Cosmic Vanilla",
+        "description": "Sweet premium vanilla aroma that comforts the soul"
+      },
+      "citrus": {
+        "name": "Radiant Citrus",
+        "description": "Energizing citrus blend to revitalize your space"
+      }
+    },
+    "kits": {
+      "starter": {
+        "name": "Starter Kit",
+        "description": "Includes 1 pearl wax and 2 fragrances to begin your celestial journey"
+      },
+      "premium": {
+        "name": "Premium Kit",
+        "description": "Includes 2 pearl waxes and 4 exclusive fragrances"
+      },
+      "complete": {
+        "name": "Complete Kit",
+        "description": "Complete collection with 3 waxes and 6 fragrances to explore infinite combinations"
+      }
+    }
+  },
+  "cta": {
+    "title": "Transform Your Home into a Sanctuary",
+    "description": "Discover the Celestia collection and bring the serenity and magic of the universe to every corner",
+    "button": "View Exclusive Candles"
+  },
+  "footer": {
+    "slogan": "Pearl wax. The luxury of reinventing your light.",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "contact": "Contact"
+  }
+}
